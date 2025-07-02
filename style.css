@@ -18,13 +18,14 @@ ul{
 }
 li{
     float: left;
+    
 }
 li a{
     display: block;
     text-decoration: none;
     padding: 20px;
     font-size: 20px;
-    color: black;
+    color: rgb(24, 22, 22);
    
 }
 li a:hover{
